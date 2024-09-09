@@ -1,0 +1,32 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - 2024-09-09 21:37:23.883879000 Z
+    - 2024-09-09 21:37:23.883879000 Z
+
+---
+books:
+  columns:
+  - id
+  - title
+  - created_at
+  - updated_at
+  - author
+  - price
+  - publish_date
+  records: 
+  - - 1
+    - erik's book
+    - 2024-09-09 21:44:22.125393000 Z
+    - 2024-09-09 21:44:22.125393000 Z
+    - Erik
+    - !ruby/object:BigDecimal 18:0.101e1
+    - '2024-09-04'
